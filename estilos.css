@@ -56,8 +56,9 @@
 
 #creadores{
 	display: flex;
-    flex-direction: row; 
+    	flex-direction: row; 
 	justify-content: space-evenly;
+	flex-wrap: wrap;
 	color: white;
 	text-align: center;
 	margin-bottom: 5rem;
